@@ -39,7 +39,7 @@ const Login = () => {
                 }
 
                 setTimeout(() => {
-                    window.location.reload();
+                    // window.location.reload();
                     navigate('/');
                 }, 1500);
             } else {
